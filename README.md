@@ -21,5 +21,5 @@ The application also has feature which allows user to save the ingredients neede
 ## Detail Recipe Screen Landscape
 ![detail_recipe_landscape](https://user-images.githubusercontent.com/15053859/39399506-a35ee592-4ad3-11e8-9076-a736cd440ea9.png)
 
-## Detail Recipe Screeen Portrait
+## Detail Recipe Screen Portrait
 ![detail_recipe_portrait](https://user-images.githubusercontent.com/15053859/39399516-e0af402c-4ad3-11e8-8bfd-7b6a852af50f.png)
