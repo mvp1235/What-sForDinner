@@ -17,3 +17,9 @@ The application also has feature which allows user to save the ingredients neede
 
 ## Grocery Screen
 <img src="https://user-images.githubusercontent.com/15053859/39399453-ab7d4242-4ad2-11e8-853d-95bf7e5fc70a.png" width="300" height="500">
+
+## Detail Recipe Screen Landscape
+![detail_recipe_landscape](https://user-images.githubusercontent.com/15053859/39399506-a35ee592-4ad3-11e8-9076-a736cd440ea9.png)
+
+## Detail Recipe Screeen Portrait
+![detail_recipe_portrait](https://user-images.githubusercontent.com/15053859/39399516-e0af402c-4ad3-11e8-8bfd-7b6a852af50f.png)
