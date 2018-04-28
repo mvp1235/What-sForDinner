@@ -4,16 +4,16 @@ The application also has feature which allows user to save the ingredients neede
 
 
 ## Main Page
-![main_page](https://user-images.githubusercontent.com/15053859/39399390-920e7318-4ad1-11e8-8372-e97eeb9bf8c4.png)
+<img src="https://user-images.githubusercontent.com/15053859/39399390-920e7318-4ad1-11e8-8372-e97eeb9bf8c4.png" width="300" height="500">
 
 ## New Recipe Screen
-![new_recipe](https://user-images.githubusercontent.com/15053859/39399400-b20860a2-4ad1-11e8-993b-c9d45a1cb25f.png)
+<img src="https://user-images.githubusercontent.com/15053859/39399400-b20860a2-4ad1-11e8-993b-c9d45a1cb25f.png" width="300" height="500">
 
 ## Meal Planning
-![meal_planning](https://user-images.githubusercontent.com/15053859/39399449-9382601e-4ad2-11e8-9354-ba554f81a8a7.png)
+<img src="https://user-images.githubusercontent.com/15053859/39399449-9382601e-4ad2-11e8-9354-ba554f81a8a7.png" width="300" height="500">
 
 ## Nutrition Planner
-![nutrition_planner](https://user-images.githubusercontent.com/15053859/39399420-2491099e-4ad2-11e8-9933-8ef8804e300c.png)
+<img src="https://user-images.githubusercontent.com/15053859/39399420-2491099e-4ad2-11e8-9933-8ef8804e300c.png" width="300" height="500">
 
 ## Grocery Screen
-![grocery](https://user-images.githubusercontent.com/15053859/39399453-ab7d4242-4ad2-11e8-853d-95bf7e5fc70a.png)
+<img src="https://user-images.githubusercontent.com/15053859/39399453-ab7d4242-4ad2-11e8-853d-95bf7e5fc70a.png" width="300" height="500">
